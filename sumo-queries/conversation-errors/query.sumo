@@ -1,0 +1,3 @@
+_sourceCategory=ava OR _sourceCategory=cicero
+| where error matches "*"
+# Placeholder Sumo query.
